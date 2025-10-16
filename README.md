@@ -1,5 +1,7 @@
 # Machine learning for language and vision
-This section consists of different assessments, where all students are required to submit weekly assignments. The main projects are: Week 6 - Daily Dialogue to develop an ML solution for this NLP problem, and Week 5 - Essay on Generative AI ethical issue.
+This section consists of collective workbook I did from one of ML & Vision model, where all students are required to submit weekly assignments. 
+
+The main project for MLV was the Week 6 - Daily Dialogue notebook to develop an ML solution for this NLP problem, and also the Week 5 - Essay on Generative AI ethical issue.
 
 
 ## Content
